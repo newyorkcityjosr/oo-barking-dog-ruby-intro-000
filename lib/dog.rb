@@ -11,5 +11,4 @@ end
 def bark
   puts "woof"
 end
-name.bark
 end
